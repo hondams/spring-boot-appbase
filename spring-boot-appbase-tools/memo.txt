@@ -1,0 +1,75 @@
+●AWS Amplify Studio 一般提供開始
+https://aws.amazon.com/jp/blogs/news/announcing-the-general-availability-of-aws-amplify-studio/
+
+2022 年 4 月 21 日 GA
+
+※ Figmaと統合
+
+●Figma
+https://www.figma.com/
+
+
+●Figmaのコンポーネントは、Reactに変換
+https://docs.amplify.aws/console/uibuilder/figmatocode/
+
+
+●認証
+https://docs.amplify.aws/console/auth/authentication/
+
+※ Amplify Studioでは、完全なAmazonCognito認証ソリューションをアプリに簡単に追加できます。
+電子メールとパスワード、Amazon、Google、Facebook、またはAppleでサインインなどのログイン方法を指定するだけで、認証フロー全体の認証UIコンポーネントが提供されます。
+
+
+●認可
+https://docs.amplify.aws/console/authz/authorization/#to-set-the-authorization-mode
+
+※ 使用可能な認証モードには、API_KEY、Cognitoユーザープール、IAM
+
+
+●Figmaの利用方法
+
+https://photoshopvip.net/133775
+
+https://ferret-plus.com/13195
+
+https://depart-inc.com/blog/figma/
+
+https://crestadesign.org/figma-use/
+
+https://nocodedb.world/archives/5580
+
+https://goworkship.com/magazine/10-figma-tricks/
+
+https://note.com/99997373/n/n77573dfb8797
+
+※ AdobeXD、Sketchと同じ立ち位置のデザインツール
+※ 画像などとして出力
+
+
+
+●amplify lib
+https://docs.amplify.aws/
+
+※ Lib
+JavaScript
+iOS
+Android
+Flutter
+
+
+※ UI Lib
+React
+React Native
+Angular
+Vue
+Ionic
+Next.js
+Flutter
+
+
+※ Ionic
+ネイティブのiOS、Android、デスクトップ、Webなど、複数のプラットフォームで動作するアプリをProgressive Web Appとして、すべて1つのコードベースで開発、デプロイすることができます。
+
+https://ionicframework.com/docs/ja/
+
+

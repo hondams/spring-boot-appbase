@@ -1,0 +1,2 @@
+[[dataItems]]
+[dataJpName@key]	[dataItemJpName@key]	[dataDicJpName]	[required]	[dataItemName@name=dataItemJpName]	[@ref=dataDics.javaDataType]	[@ref=dataDics.javaValidations]

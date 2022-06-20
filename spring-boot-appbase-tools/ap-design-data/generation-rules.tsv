@@ -1,0 +1,4 @@
+[[generationRules]]
+[templateName@key]	[objectsName@key]	[outputPathType]	[lineSeparator]
+dump.mustache	<root>	dump.txt	CRLF
+mustache-grammar.mustache	<test>	mustache-grammar-output.txt	CRLF

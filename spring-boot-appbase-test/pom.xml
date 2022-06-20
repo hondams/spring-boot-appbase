@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.github.hondams</groupId>
+		<artifactId>spring-boot-appbase-parent</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../spring-boot-appbase-parent/pom.xml</relativePath>
+	</parent>
+	<artifactId>spring-boot-appbase-test</artifactId>
+	<name>spring-boot-appbase-test</name>
+	<description>Spring Boot AppBase Test Lib</description>
+	<dependencies>
+		<dependency>
+			<groupId>com.github.hondams</groupId>
+			<artifactId>spring-boot-appbase-lib</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-test</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.mockito</groupId>
+			<artifactId>mockito-inline</artifactId>
+		</dependency>
+		<dependency>
+		    <groupId>software.amazon.awssdk</groupId>
+		    <artifactId>dynamodb</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.amazonaws</groupId>
+			<artifactId>DynamoDBLocal</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.almworks.sqlite4java</groupId>
+			<artifactId>sqlite4java</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<optional>true</optional>
+		</dependency>
+	</dependencies>
+</project>

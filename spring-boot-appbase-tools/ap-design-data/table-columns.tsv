@@ -1,0 +1,2 @@
+[[tableColumns]]
+[tableJpName@key]	[tableColumnJpName]	[dataDicJpName]	[tableColumnName@name=tableJpName]	[@ref=dataDics.dbDataType]
